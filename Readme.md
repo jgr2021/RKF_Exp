@@ -6,8 +6,6 @@ The GNSS provides geographic location information, such as latitude and longitud
 
 The IMU provides insights into the vehicle's movements through space, including velocity and acceleration.
 
-%The raw data is collected using a Trimble NetR9 GNSS receiver with a frequency of 1Hz and a 50Hz Tamagawa-seiki TAG264 IMU. 
-
 In addition, we have ground truth from a mature satellite navigation system called Applanix POS LV620 (10Hz). The entire data collection process lasts about 20 minutes, which contains 12410 data samples.
 
 The raw data is collected using Trimble NetR9 GNSS (1Hz) and TAG264 IMU (50Hz), with ground truth from Applanix POS LV620 (10Hz). Total duration: 20 minutes, 12410 samples.
