@@ -1,6 +1,6 @@
 
 
-In this experiment, our method is tested under the UrbanNav\cite{UrbanNav} global navigation satellite system (GNSS) and inertial measurement unit (IMU) dataset, which was collected from a deep urban canyon of Tokyo. Fig. \ref{fig:GNSS_Traj} shows the car trajectory and GPS measurements whose outliers are caused by tall buildings.
+In this experiment, our method is tested under the [UrbanNav](https://github.com/IPNL-POLYU/UrbanNavDataset) global navigation satellite system (GNSS) and inertial measurement unit (IMU) dataset, which was collected from a deep urban canyon of Tokyo. Fig. \ref{fig:GNSS_Traj} shows the car trajectory and GPS measurements whose outliers are caused by tall buildings.
 
 The GNSS provides geographic location information, such as latitude and longitude.
 
