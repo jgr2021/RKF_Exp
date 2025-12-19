@@ -9,3 +9,5 @@ The IMU provides insights into the vehicle's movements through space, including 
 In addition, we have ground truth from a mature satellite navigation system called Applanix POS LV620 (10Hz). The entire data collection process lasts about 20 minutes, which contains 12410 data samples.
 
 The raw data is collected using Trimble NetR9 GNSS (1Hz) and TAG264 IMU (50Hz), with ground truth from Applanix POS LV620 (10Hz). Total duration: 20 minutes, 12410 samples.
+
+
